@@ -1,3 +1,3 @@
 {
- "(*test).js": "npm run lint"
+ "!(*test).js": "npm run lint"
 }
